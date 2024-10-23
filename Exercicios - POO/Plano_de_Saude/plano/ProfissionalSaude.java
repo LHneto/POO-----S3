@@ -9,7 +9,7 @@ public class ProfissionalSaude {
         this.especialidade = especialidade;
     }
 
-    // Getters e Setters
+    
     public String getNome() {
         return nome;
     }
