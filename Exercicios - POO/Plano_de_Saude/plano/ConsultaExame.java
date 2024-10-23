@@ -3,7 +3,7 @@ package plano;
 import java.util.Date;
 
 public class ConsultaExame {
-    private String tipo; // consulta ou exame
+    private String tipo; 
     private Date data;
     private String descricao;
     private ProfissionalSaude profissional;
