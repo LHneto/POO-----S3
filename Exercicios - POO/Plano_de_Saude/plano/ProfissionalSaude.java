@@ -9,7 +9,6 @@ public class ProfissionalSaude {
         this.especialidade = especialidade;
     }
 
-    
     public String getNome() {
         return nome;
     }
