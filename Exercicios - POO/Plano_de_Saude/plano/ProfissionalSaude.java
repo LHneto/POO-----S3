@@ -17,3 +17,4 @@ public class ProfissionalSaude {
         return especialidade;
     }
 }
+
